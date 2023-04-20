@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3efadb0e-34ac-42cd-9de9-fde0042d5035" name="Changes" comment="mew">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681190649538.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681190649538.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681190979080.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681190979080.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681191723199.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681191723199.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681191796737.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681191796737.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681807156091.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681807156091.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1681807263507.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coRega.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OnDemand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSelenideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/date/AfidMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/date/Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/date/Mail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/date/PasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/form/Form1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/new1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/OnDemand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/classpath.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/core/BaseSelenideTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/core/BaseSeleniumPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/core/BaseSeleniumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/date/AfidMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/date/Elements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/date/Mail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/date/PasswordGenerator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/date/PasswordGenerator$PasswordGeneratorBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/date/PasswordGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/form/Form1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2OEAXw5YhlJaex4P4TzeTnmaEum" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/shaq/Documents/GitHub/coRega",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="date" />
+      <recent name="form" />
+      <recent name="" />
+      <recent name="Core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OnDemand.canSwitchToWindowByIndex_chrome">
+    <configuration name="OnDemand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coRega" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OnDemand" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnDemand.canSwitchToWindowByIndex_chrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coRega" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OnDemand" />
+      <option name="METHOD_NAME" value="canSwitchToWindowByIndex_chrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnDemand.datemyageFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coRega" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OnDemand" />
+      <option name="METHOD_NAME" value="datemyageFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnDemand.datingFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coRega" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OnDemand" />
+      <option name="METHOD_NAME" value="datingFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnDemand.openNewWindowForTestProjectBlog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coRega" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OnDemand" />
+      <option name="METHOD_NAME" value="openNewWindowForTestProjectBlog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.OnDemand.canSwitchToWindowByIndex_chrome" />
+      <item itemvalue="JUnit.OnDemand.openNewWindowForTestProjectBlog" />
+      <item itemvalue="JUnit.OnDemand" />
+      <item itemvalue="JUnit.OnDemand.datemyageFirst" />
+      <item itemvalue="JUnit.OnDemand.datingFirst" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OnDemand.canSwitchToWindowByIndex_chrome" />
+        <item itemvalue="JUnit.OnDemand.openNewWindowForTestProjectBlog" />
+        <item itemvalue="JUnit.OnDemand" />
+        <item itemvalue="JUnit.OnDemand.datemyageFirst" />
+        <item itemvalue="JUnit.OnDemand.datingFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3efadb0e-34ac-42cd-9de9-fde0042d5035" name="Changes" comment="" />
+      <created>1681115413704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681115413704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mew" />
+    <option name="LAST_COMMIT_MESSAGE" value="mew" />
+  </component>
+</project>
